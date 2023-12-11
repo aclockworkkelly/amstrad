@@ -1,0 +1,209 @@
+{
+  snapshot : {
+    aySelect : 14,
+    keyboardLine : 0,
+    cpu : {
+      hl : 0,
+      imodew : 1,
+      af : 0,
+      ix : 65535,
+      pc : 7129,
+      mptr : 7129,
+      iffw : 1,
+      sp : 49128,
+      aux : 7398,
+      nmi : 0,
+      ir : 76,
+      bc : 0,
+      bcp : 32649,
+      hlp : 47295,
+      afp : 68,
+      lastnmi : 0,
+      flags : 0,
+      dep : 46655,
+      tm : 314,
+      de : 0,
+      iy : 0
+    },
+    upd765 : {
+      srt : 3000,
+      hut : 16000,
+      hlt : 2000
+    },
+    gaIntDelay : 0,
+    rom : {
+
+    },
+    controlLines : 0,
+    level : 0,
+    ayMode : 0,
+    ppiB : 0,
+    ram : {
+      <eAHtwDEBAAAAwqD1T20MHygAAAAAAAAAAAAAAAAAAADgbUAAAAE=>,
+      <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>,
+      <eAHtmuFxwyAMhRnBI2QERugoGoERPEpH6AgawSMwgkfoexJunLhu2p7tOHf67tLDIITgRx8CUtqaruff7GXld9asVVJS8bY5bmfAFparfrci9x5RqctYM363jDXPbKYe7mdthGap6D0f96svR+luZjqyFbV7MCrnW6qN2s9ncAZG5d/t5j7OlzwIgiA4ENfQpm4o516MlGr9xvqrRF2Sb3YIW/P21iK6LGNllLfIZb5HmPMwUkXv2efVA0fJMvcobIX9Hohk5braqP3jfcuxtBXX3/f4mdD/IAiCZwFlZXatg5a+qOkk1RYl5tIZ9cy+oUkoiRSUBrRRH6EFspcKXvl4pxbahmQRq2JHwPi8nnHJdFpg9fjZV0qDZdVrY5QeHtmbJxo2V3rgvoN9rDYVVaGd1xSz3wOfa9cryufL/7kiXPvlzut/hP4HQRA8C5ERh/3QN2i56nT+X3rqP5W3+HEArQBVH5aAJZwDo8e+vCOjzzgNN32+i1WbWnp0jKtA/z1Oj9u+bJaeUa8APaM/eprmyvN/33Zwf1H6nAaMSq+e/9N+D6itGbsVRfl8+m/Kj7UP/Q+CIHh1Sh2gN1BzZrhKvTEVRGmgZrom4jeYMkJX+TQAHJn/ewjLWF3/qc+DeFzM/1miTdN/uzXw0hpUNdP/y3Wurv98dUBHGR4xhmJk1MhlP/23MRGtonzC/F9L5dqH/gdBELw6VLsk2dM6Nf1vx+18/+d6SEz9zA5NgOcEx9z/XyO6j7XVW3QeF+//WWFxtvzfdg7IqNc1i3p29df0H30xQ/p0/cepAOx8FLQqPD6K/T94BB5th93M2c7/fe1z/UuvdUL/gyAIngWUD8re6YgTcztBr3x77u//eRMwtjtxpny5dlZj2I36Ee//GY/f4t/Hanf1fJNQGSvjGpstbdjmbwGmm/21MXiqT39Tb3rjTP3NgN+HdIrcV+jVbkZQ3keZR4va3/8X3MDYCcRpqIyNayV/6bVO6H8QBMH5eeV/1SEz27LV68fQ/yAIgt/xCfOl8wA=>,
+      <eAHtwDEBAAAAwqD1T20MHygAAAAAAAAAAAAAAAAAAADgbUAAAAE=>,
+      <eAHtwDEBAAAAwqD1T20MHygAAAAAAAAAAAAAAAAAAADgbUAAAAE=>,
+      <eAHtwDEBAAAAwqD1T20MHygAAAAAAAAAAAAAAAAAAADgbUAAAAE=>,
+      <eAHtwDEBAAAAwqD1T20MHygAAAAAAAAAAAAAAAAAAADgbUAAAAE=>,
+      0 : <eAHtwLERAVEQANAVmNEBiUAsVoDwylGBREKmnP2Z2eHmFyC4EgRXgUQTwvcW1/M81H1Zt6xLPnttW63bu9eYlfmJerV6ZEQdWszD9B2n3T5Om1UdswcAAAAAAAAAAAAAAAAAAADwFz8HBiGZ>
+    },
+    elevel : 0,
+    ppiC : 0,
+    dline : 0,
+    border : 7012864,
+    palette : {
+      914419,
+      15921935,
+      394739,
+      16380927,
+      66048,
+      15991308,
+      15991539,
+      6846464,
+      97134,
+      16153454,
+      7044595,
+      126978,
+      7074673,
+      7012864,
+      16022284,
+      0 : 7012864
+    },
+    romSelect : 0,
+    gateArray : 137,
+    ay : {
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      63,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0 : 0
+    },
+    ppiA : 0,
+    crtcS : 13,
+    hsyncDelay : 0,
+    videoMode : 1,
+    gaInterrupt : 1,
+    vsync : 24,
+    ppiControl : 130,
+    dclock : 98,
+    gaIntLine : 0,
+    penS : 15,
+    pal : 192,
+    byteL : 0,
+    crtc : {
+      40,
+      46,
+      142,
+      38,
+      0,
+      25,
+      30,
+      0,
+      7,
+      0,
+      0,
+      48,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0 : 63,
+      ma : 13287,
+      hcc : 62,
+      lc : 241,
+      output : 4,
+      vlc : 1,
+      mc : 13488,
+      hsc : 0,
+      vcc : 30,
+      r : {
+
+      },
+      ctrl : 0,
+      vsl : 7,
+      ra : 7
+    }
+  },
+  misc : {
+    devmode : true
+  },
+  audio : {
+    filter : 0.11458333333333,
+    volume : 0.70507431030273,
+    mixer : {
+      dma : {
+        {
+          volume : 0.050000000745058,
+          pan : 0.5,
+          solo : false,
+          mute : false
+        }
+      },
+      ay : {
+        {
+          b : {
+            volume : 0.33000001311302,
+            pan : 0.5,
+            solo : false,
+            mute : false
+          },
+          a : {
+            volume : 0.33000001311302,
+            pan : 0,
+            solo : false,
+            mute : false
+          },
+          c : {
+            volume : 0.33000001311302,
+            pan : 1,
+            solo : false,
+            mute : false
+          }
+        }
+      }
+    }
+  },
+  devices : {
+
+  },
+  status : 2,
+  class : 'rvm.machine.amstradcpc.cpc6128',
+  video : {
+    vigRnd : 0,
+    maskB : 1,
+    __preset : 'LCD - HDMI 240p',
+    contrast : 1,
+    scanlines : 0,
+    vigAmp : 0,
+    offset : 0,
+    blur : 0,
+    beamI : 0,
+    ghostOffset : 0,
+    overscanH : 0,
+    noise : 0,
+    overscan : 0.27,
+    saturation : 1,
+    overscanV : 0,
+    ghostAngle : 0,
+    beamSpeed : 0,
+    __screen : 'Colour',
+    ghostIntensity : 0,
+    interlaced : 0,
+    curvature : 0,
+    brightness : 0
+  },
+  cmdM : {
+    sysPath : '/Users/iankelly/Desktop/amstrad'
+  }
+}

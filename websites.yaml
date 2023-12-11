@@ -1,0 +1,18 @@
+---
+websites:
+- name: Add 8bit to 16Bit
+  address: https://plutiedev.com/z80-add-8bit-to-16bit#:~:text=Adding%20A%20to%20HL%20is,below%20for%20the%20other%20methods.
+- name: 1979 Z80 book
+  address: https://archive.org/details/Z-80_Assembly_Language_Programming_1979_Leventhal
+- name: Product spec handbook (Instructions table)
+  adress: http://www.bitsavers.org/components/zilog/z80/Z80_Family_Product_Specifications_Handbook_Feb84.pdf
+- name: Screen fill example
+  address: https://github.com/bchiha/Ready-Z80/blob/main/02-Retro_Virtual_Machine/screen_fill_example.z80
+- name: Amstred character set
+  address: https://en.wikipedia.org/wiki/Amstrad_CPC_character_set#:~:text=The%20Amstrad%20CPC%20character%20set,boots%20into%20CP%2FM).
+- name: Gate array
+  address: https://www.cpcwiki.eu/index.php/Gate_Array
+- name: Z80 assembly basics
+  address: http://www.massmind.org/techref/zilog/z80/part1.htm
+- name: Amstrad CPC firmware guild
+  address: http://www.cantrell.org.uk/david/tech/cpc/cpc-firmware/
